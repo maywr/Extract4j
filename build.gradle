@@ -5,8 +5,8 @@ plugins {
 }
 
 mainClassName = 'xyz.maywr.extract4j.Bootstrap'
-group 'org.example'
-version '1.0-SNAPSHOT'
+group 'i.am.a.retard'
+version '1.0'
 
 repositories {
     mavenCentral()
